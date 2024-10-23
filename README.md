@@ -1,0 +1,2 @@
+# Project Description
+The goal of this project is to learn Go. The objectives aim to get around the most essential tools for coding in a statically typed language. The objectives also include proper execution of Git workflows, seeing as it is an important skill to learn.
